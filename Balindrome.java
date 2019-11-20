@@ -21,6 +21,7 @@ public class Balindrome {
 		String str = "testtest";
 		System.out.println("Test");
 		System.out.println(checkPalindrome(str)?"This is polindrome": "This is not a polindrome");
+		System.out.println("Test");
 		
 
 	}
