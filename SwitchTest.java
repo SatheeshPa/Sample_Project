@@ -30,6 +30,7 @@ public class SwitchTest {
 	public static void main(String[] args) {
 		String str = "";
 		System.out.println(checkSwitch(str));
+		System.out.println("Test");
 		
 		
 	}
